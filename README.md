@@ -28,13 +28,9 @@ This project explores **creative UI animation** and **modern micro-interactions*
 
 ## 📂 Project Structure
 
-
-ascii-glitch-ripple
-
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+- index.html 
+- style.css 
+- README.md 
 
 
 ---
